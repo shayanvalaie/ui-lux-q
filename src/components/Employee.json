@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "status": "unavailable"
+  },
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "status": "unavailable"
+  },
+  {
+    "id": 5,
+    "name": "Linda Davis",
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "name": "Robert Miller",
+    "status": "unavailable"
+  },
+  {
+    "id": 7,
+    "name": "Lucy Wilson",
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "name": "David Moore",
+    "status": "unavailable"
+  },
+  {
+    "id": 9,
+    "name": "Patricia Taylor",
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "name": "Charles Anderson",
+    "status": "unavailable"
+  }
+]
